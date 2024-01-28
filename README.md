@@ -1,4 +1,4 @@
-# CS210_Term_Project
+# CS210 Term Project
 
 Berke Ayyıldızlı 31018
 
